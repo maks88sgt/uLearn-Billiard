@@ -1,0 +1,8 @@
+D:\uLearn\Billiard\bin\Debug\Billiards.exe.config
+D:\uLearn\Billiard\bin\Debug\Billiards.exe
+D:\uLearn\Billiard\bin\Debug\Billiards.pdb
+D:\uLearn\Billiard\bin\Debug\TestingRoom.dll
+D:\uLearn\Billiard\obj\Debug\Billiards.csprojAssemblyReference.cache
+D:\uLearn\Billiard\obj\Debug\Billiards.csproj.CopyComplete
+D:\uLearn\Billiard\obj\Debug\Billiards.exe
+D:\uLearn\Billiard\obj\Debug\Billiards.pdb
